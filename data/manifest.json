@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": "机械工程（专升本）-2025",
+  "major": "机械工程",
+  "major_code": "080201",
+  "edition": "2025",
+  "institution": "沧州交通学院",
+  "college_doc_label": "机械与动力工程学院",
+  "program_sha256": "c8df286dbf986ad0b543a67cb6a59c3bd4311ba961856795086a59470735b872",
+  "counts": {
+    "training_objectives": 4,
+    "graduation_requirements": 11,
+    "indicators": 22,
+    "courses": 42,
+    "course_groups": 8,
+    "relations": 119
+  },
+  "relation_types": {
+    "requirement_supports_objective": 13,
+    "course_supports_indicator": 106
+  },
+  "aggregates": {
+    "credits_display": "78.5+2",
+    "curricular_credits": 78.5,
+    "second_classroom_credits": 2,
+    "total_hours": 1256,
+    "practical_credits": 29.01
+  },
+  "validation": {
+    "errors": 0,
+    "advisory_warnings": 20
+  },
+  "source": {
+    "pdf_file": "evidence/06-机械学院-机械工程专业（专升本）25版人才培养方案.pdf",
+    "docx_file": "evidence/06-机械学院-机械工程专业（专升本）25版人才培养方案.docx",
+    "pdf_sha256": "30f8f56ef424807c01903e170430dc9e71dd1db4cc3c6486c3fcc2548f7b9267",
+    "page_count": 17
+  },
+  "boundary": "校验结果只说明结构和既定规则检查状态，不表示培养质量、课程达成或官方审核结论。本仓库保留原始 DOCX/PDF 作为证据，属内部私有资料。"
+}
